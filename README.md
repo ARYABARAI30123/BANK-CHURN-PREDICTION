@@ -31,8 +31,16 @@ Exited: Whether the customer exited the bank (1 for yes, 0 for no, i.e., churned
 
 # Visualizations
 ### ![Screenshot 2023-10-29 115620](https://github.com/ARYABARAI30123/BAK-CHURN-PREDICTION/assets/139233575/f3dece7b-7e67-480c-830e-f619008907b1)
+## 1.Age :- Slightly Tail-Heavy:Age has a few people who are significantly older than the rest in the dataset.
+## 2.CreditScore - Mostly Above 600:The majority of clients have a credit score above 600.
+## 3.Balance - Fairly Normal Distribution: ignoring the first group of data, the remaining balances follow a shape similar to a bell curve, which is typical of many natural phenomena.
+## 4.EstimatedSalary :: Salaries are fairly evenly distributed across the dataset
+
 ### ![Screenshot 2023-10-29 114558](https://github.com/ARYABARAI30123/BAK-CHURN-PREDICTION/assets/139233575/3d537a46-5097-46f5-8781-261c3bdefed7)
+## There is no significant intercorrelation between our features.
+
 ### ![Screenshot 2023-10-29 120038](https://github.com/ARYABARAI30123/BAK-CHURN-PREDICTION/assets/139233575/5f208da7-93d1-41be-9f45-118a74eb1fb9)
+## The dataset is imbalanced because a large majority (80%) of clients are retained, making the 'Churned' class a minority.
 
 
 
