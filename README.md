@@ -1,5 +1,5 @@
 # BANK-CHURN-PREDICTION
-## Bank Churn Prediction is a project aimed at predicting customer churn in a bank. Churn prediction is a critical task for businesses, especially in the banking sector, as it helps in retaining customers and improving customer satisfaction. This project utilizes machine learning algorithms to analyze customer data and predict whether a customer is likely to leave the bank.
+### Bank Churn Prediction is a project aimed at predicting customer churn in a bank. Churn prediction is a critical task for businesses, especially in the banking sector, as it helps in retaining customers and improving customer satisfaction. This project utilizes machine learning algorithms to analyze customer data and predict whether a customer is likely to leave the bank.
 
 # Introduction
 ### Customer churn, also known as customer attrition, occurs when customers stop doing business with a company. In the banking industry, understanding and predicting churn is crucial for customer retention and business growth. This project aims to predict bank churn using machine learning techniques, allowing banks to take proactive measures to retain customers.
@@ -16,7 +16,7 @@
 ### Scikit-Learn
 ### Matplotlib
 ### Seaborn
-### jOblib
+### joblib
 
 # Features
 ## Credit Score: Credit score of the customer
